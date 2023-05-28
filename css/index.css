@@ -1,0 +1,75 @@
+body{
+    background-color: #000;
+    background-image: url(../img/aurora.png);
+    
+    color:aliceblue;
+    font-family: 'Poppins', Arial;
+    padding-bottom: 4em;
+    background-size: 200em;
+    
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+header nav {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+  
+}
+
+nav button{
+  font-size: 12px;
+}
+
+h1{
+  font-family: 'Poppins';
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+header nav p strong{
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
+    background-color: #0d0d0d;
+    padding: 1em;
+    border-radius: 6px;
+    margin-top: 2em;
+}
+
+button{
+    padding: 8px;
+    border: none;
+    border-radius: 6px;
+    background-color: #009c5b;
+    color: #fff;
+    cursor: pointer;
+    width: 100%;
+    
+    font-weight: 600;
+}
+
+main a{
+  text-align: center;
+  background: #009c5b;
+  padding: 3px;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 6px;
+  margin-top: 2em;
+  
+}
+
+main p{
+  margin-top: 1em;
+}
