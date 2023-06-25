@@ -1,9 +1,9 @@
 body{
     background-color: #000;
-    background-image: url(../img/aurora.png);
+    background-image: url(../img/Aurora2.png);
     
     color:aliceblue;
-    font-family: 'Poppins', Arial;
+    font-family: 'Lato', Arial;
     padding-bottom: 4em;
     background-size: 200em;
     
@@ -28,8 +28,8 @@ nav button{
 }
 
 h1{
-  font-family: 'Poppins';
-  font-weight: 800;
+  font-family: 'Montserrat';
+  font-weight: 600;
   letter-spacing: -1px;
 }
 
